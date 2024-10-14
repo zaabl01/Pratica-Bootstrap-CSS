@@ -1,0 +1,48 @@
+*{
+    list-style: none;
+}
+.conteudo-header{
+    padding: 10px 15px;
+}
+.conteudo-menu a{
+    
+    text-decoration: none;
+    font-size: 20px;
+    color: #252525;
+    
+}
+.conteudo-menu button{
+    
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.conteudo-menu a:hover{
+    
+    text-decoration: underline;
+    font-size: 20px;
+}
+.conteudo-header{
+    padding: 10px 15px;
+}
+.conteudo-prc{
+    margin: 120px 50px;
+}
+.conteudo-prc h1{
+    font-weight: lighter;
+    font-size: 64px;
+}
+.conteudo-prc p{
+    width: 58%;
+    text-align: center;
+    font-size: 22px;
+    font-weight: lighter;
+}
+.conteudo-card{
+    text-align: center;
+    gap: 70px;
+    
+}
+.conteudo-lista{
+    padding: 0;
+}
